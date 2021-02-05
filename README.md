@@ -6,7 +6,8 @@ Members: Allaa El-Khodr, Bker Sawalha, Mayiz Zgheib, Lucas Kneffel Otal
 Basically, this programm encodes a message received via UART and displays the equivalent QR-Code. 
 It auto-detects size and encoding level depending on the input message.
 Message must fit the 10-H standards at most given by LCD size.
-=======
+
+
 Dabei ist erstmal der gesamte Algorithmus zu Generierung eines QR-Codes zu implementieren. Weiterhin wollen wir 
 mindestens ein Fehler-Level berücksichtigen können. Das bedeutet dass der QR-Code gelesen werden kann, obwohl nicht 
 der gesamte Code Sichtbar ist (für den aufnehmenden Sensor).
