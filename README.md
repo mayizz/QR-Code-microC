@@ -95,5 +95,3 @@ Wir haben den Algorithmus in 4 große Bereiche getrennt.
 
  
  
-
->>>>>>> 131f304d32ab9c102627ca56b81e90229138cd7e
