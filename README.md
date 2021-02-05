@@ -3,7 +3,7 @@
 QRCode-Generator
 Members: Allaa El-Khodr, Bker Sawalha, Mayiz Zgheib, Lucas Kneffel Otal
 
-Basically, this programm encodes a message received via UART and displays the equivalent QR-Code. 
+Basically, this programm encodes a message received via UART and displays the equivalent QR-Code on the ATmega1284P (for further details refer to files in "ATmega" folder). 
 It auto-detects size and encoding level depending on the input message.
 Message must fit the 10-H standards at most given by LCD size.
 
