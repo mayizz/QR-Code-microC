@@ -1,4 +1,4 @@
-# Group5
+# DMM-Projekt Group5
 
 QRCode-Generator
 Members: Allaa El-Khodr, Bker Sawalha, Mayiz Zgheib, Lucas Kneffel Otal
