@@ -1,0 +1,34 @@
+{
+    "build": {
+        "f_cpu": "16000000L",
+        "hwids": [
+            [
+                "0x0403",
+                "0x6001"
+            ]
+        ],
+        "mcu": "atmega1284p"
+    },
+    "platforms": [
+        "atmelavr"
+    ],
+    "name": "EMG DMM Board",
+    "upload": {
+        "maximum_ram_size": 16384,
+        "maximum_size": 126976,
+        "protocol": "stk500",
+        "require_upload_port": true
+    },
+    "bootloader": {
+        "file": "boards/stk500boot.hex",
+        "lfuse": "0xFF",
+        "hfuse": "0x98",
+        "efuse": "0xFF",
+        "lock_bits": "0xFF"
+    },
+    "test": {
+        "speed": 9600
+    },
+    "url": "https://www.emg.tu-bs.de/lehre/vl/vl_dmm_d.html",
+    "vendor": "EMG, TU braunschweig"
+}
