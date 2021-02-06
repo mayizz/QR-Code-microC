@@ -3,7 +3,7 @@
 QRCode-Generator
 Members: Allaa El-Khodr, Bker Sawalha, Mayiz Zgheib, Lucas Kneffel Otal
 
-This a port of the QR-Code-generator (Copyright (c) Project Nayuki) to the ATmega1284P (for further details refer to files in "ATmega" folder) by Group 5.
+This is a port of the QR-Code-generator (Copyright (c) Project Nayuki) to the ATmega1284P (for further details refer to files in "ATmega" folder) by Group 5.
 UART input added and minor changes were done to the source code by Project Nayuki.
 
 Basically, this programm encodes a message received via UART and displays the equivalent QR-Code. 
